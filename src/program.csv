@@ -1,0 +1,190 @@
+program;institution;program_level;program_classification;program_duration_in_years;program_internationally_acredited;year;new_students_enrrolled;new_female_students_enrolled;new_international_students_enrrolled;students_enrolled;international_students_enrolled;female_students_enrolled;graduating_students;female_graduating_students;international_graduating_students;tuition_fees
+ASSOCIATE IN HEALTH MANAGEMENT;GAMMA;Associate;Health and Welfare;2.0;0;2019;6;1;2;21;5;14;1;1;1;62272.0
+ASSOCIATE IN HEALTH MANAGEMENT;GAMMA;Associate;Health and Welfare;2.0;0;2020;4;3;4;16;0;12;6;6;6;62272.0
+ASSOCIATE IN HEALTH MANAGEMENT;GAMMA;Associate;Health and Welfare;2.0;0;2021;7;6;4;19;3;15;0;0;0;68499.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Associate;Health and Welfare;2.0;0;2019;9;7;9;24;1;17;1;1;1;66832.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Associate;Health and Welfare;2.0;0;2020;15;11;12;29;4;20;7;5;6;66832.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Associate;Health and Welfare;2.0;0;2021;15;11;13;30;5;20;0;0;0;73515.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;GAMMA;Associate;Information and Communication Technologies;2.0;0;2019;27;19;17;62;16;43;16;10;15;57712.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;GAMMA;Associate;Information and Communication Technologies;2.0;0;2020;21;13;17;56;13;39;12;9;11;57712.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;GAMMA;Associate;Information and Communication Technologies;2.0;0;2021;14;11;10;47;11;38;1;0;0;62708.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;GAMMA;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;19;5;3;6;2;5;59565.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;GAMMA;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;43;28;10;26;8;10;59565.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;GAMMA;Associate;Information and Communication Technologies;2.0;0;2021;5;1;1;21;15;3;8;0;3;64709.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2019;23;6;13;85;25;38;22;10;17;59565.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2020;33;18;13;74;29;39;14;9;10;59565.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2021;12;2;4;48;17;20;3;1;3;65521.0
+BACHELOR IN HEALTH MANAGEMENT;GAMMA;Bachelor;Health and Welfare;4.0;0;2019;40;30;28;107;35;80;11;11;9;113715.0
+BACHELOR IN HEALTH MANAGEMENT;GAMMA;Bachelor;Health and Welfare;4.0;0;2020;28;17;19;113;32;80;13;11;7;113715.0
+BACHELOR IN HEALTH MANAGEMENT;GAMMA;Bachelor;Health and Welfare;4.0;0;2021;26;19;12;108;36;78;0;0;0;125086.0
+BACHELOR OF BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2019;152;46;55;458;243;196;85;49;42;111007.0
+BACHELOR OF BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2020;166;57;53;468;266;188;81;41;38;111007.0
+BACHELOR OF BUSINESS ADMINISTRATION;GAMMA;Bachelor;Business, Administration and Law;4.0;0;2021;10;2;7;282;156;118;38;21;14;122108.0
+BACHELOR OF INFORMATION TECHNOLOGY;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2019;14;5;7;183;96;64;37;17;11;121837.0
+BACHELOR OF INFORMATION TECHNOLOGY;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2020;0;0;0;115;54;39;32;12;17;121837.0
+BACHELOR OF INFORMATION TECHNOLOGY;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2021;54;10;24;130;64;34;14;7;8;132234.0
+BACHELOR OF MASS COMMUNICATION;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2019;184;70;38;488;371;211;62;32;14;119130.0
+BACHELOR OF MASS COMMUNICATION;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2020;171;49;18;495;403;198;71;36;18;119130.0
+BACHELOR OF MASS COMMUNICATION;GAMMA;Bachelor;Information and Communication Technologies;4.0;0;2021;76;12;7;361;297;140;38;13;5;129201.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2019;10;6;9;10;0;6;0;0;0;102552.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2020;19;15;13;27;6;21;0;0;0;102552.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2021;15;8;14;34;5;23;0;0;0;208525.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Bachelor;Health and Welfare;4.0;0;2019;114;88;98;311;27;242;33;24;32;128535.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Bachelor;Health and Welfare;4.0;0;2020;111;78;101;352;27;272;34;27;33;128535.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;GAMMA;Bachelor;Health and Welfare;4.0;0;2021;81;58;72;352;31;270;16;13;14;141388.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2019;31;28;20;41;11;38;0;0;0;97389.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2020;36;25;31;74;14;61;0;0;0;97389.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;GAMMA;Bachelor;Health and Welfare;4.0;0;2021;23;17;18;90;18;74;0;0;0;198257.0
+ASSOCIATE IN HEALTH MANAGEMENT;EPSILON;Associate;Health and Welfare;2.0;0;2019;8;2;3;28;7;18;2;2;2;81937.0
+ASSOCIATE IN HEALTH MANAGEMENT;EPSILON;Associate;Health and Welfare;2.0;0;2020;6;5;6;21;1;16;8;8;8;81937.0
+ASSOCIATE IN HEALTH MANAGEMENT;EPSILON;Associate;Health and Welfare;2.0;0;2021;10;8;6;25;5;20;1;0;1;90131.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Associate;Health and Welfare;2.0;0;2019;12;10;12;32;2;22;2;2;2;87937.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Associate;Health and Welfare;2.0;0;2020;20;15;16;38;6;27;10;7;8;87937.0
+ASSOCIATE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Associate;Health and Welfare;2.0;0;2021;20;15;17;40;7;27;1;0;0;96731.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;EPSILON;Associate;Information and Communication Technologies;2.0;0;2019;36;26;22;82;21;57;21;13;20;75937.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;EPSILON;Associate;Information and Communication Technologies;2.0;0;2020;28;17;22;73;17;52;16;12;15;75937.0
+ASSOCIATE OF COMPUTER GRAPHICS AND ANIMATION;EPSILON;Associate;Information and Communication Technologies;2.0;0;2021;18;15;13;62;15;50;2;1;1;82511.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;EPSILON;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;25;7;5;8;3;7;78375.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;EPSILON;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;57;37;13;35;11;13;78375.0
+ASSOCIATE OF INFORMATION TECHNOLOGY;EPSILON;Associate;Information and Communication Technologies;2.0;0;2021;7;2;2;28;20;5;11;1;5;85143.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2019;31;8;17;112;33;51;30;13;22;78375.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2020;43;23;17;97;38;52;18;12;13;78375.0
+ASSOCIATE OF SCIENCE IN BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2021;16;3;6;63;22;27;5;2;5;86212.0
+BACHELOR IN HEALTH MANAGEMENT;EPSILON;Bachelor;Health and Welfare;4.0;0;2019;53;40;37;141;46;106;15;15;12;149625.0
+BACHELOR IN HEALTH MANAGEMENT;EPSILON;Bachelor;Health and Welfare;4.0;0;2020;37;22;26;148;42;106;17;15;10;149625.0
+BACHELOR IN HEALTH MANAGEMENT;EPSILON;Bachelor;Health and Welfare;4.0;0;2021;35;26;16;142;47;103;1;0;1;164587.0
+BACHELOR OF BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2019;201;61;72;603;320;258;112;65;56;146062.0
+BACHELOR OF BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2020;218;76;70;616;350;247;107;55;51;146062.0
+BACHELOR OF BUSINESS ADMINISTRATION;EPSILON;Bachelor;Business, Administration and Law;4.0;0;2021;13;3;10;371;206;156;51;28;18;160668.0
+BACHELOR OF INFORMATION TECHNOLOGY;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2019;18;7;10;241;127;85;48;22;15;160312.0
+BACHELOR OF INFORMATION TECHNOLOGY;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2020;0;0;0;152;71;52;42;16;22;160312.0
+BACHELOR OF INFORMATION TECHNOLOGY;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2021;71;13;32;171;85;45;18;10;11;173992.0
+BACHELOR OF MASS COMMUNICATION;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2019;242;92;50;642;488;278;82;42;18;156750.0
+BACHELOR OF MASS COMMUNICATION;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2020;226;65;23;652;531;261;93;47;23;156750.0
+BACHELOR OF MASS COMMUNICATION;EPSILON;Bachelor;Information and Communication Technologies;4.0;0;2021;101;16;10;475;391;185;51;17;7;170002.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2019;13;8;12;13;1;8;0;0;0;134937.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2020;25;20;17;36;8;28;0;0;0;134937.0
+BACHELOR OF SCIENCE IN EMERGENCY MEDICAL CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2021;20;11;18;45;7;31;0;0;0;274375.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Bachelor;Health and Welfare;4.0;0;2019;150;116;130;410;36;318;43;32;42;169125.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Bachelor;Health and Welfare;4.0;0;2020;146;103;133;463;36;358;45;36;43;169125.0
+BACHELOR OF SCIENCE IN MEDICAL LABORATORY ANALYSIS;EPSILON;Bachelor;Health and Welfare;4.0;0;2021;107;77;95;463;41;356;21;17;18;186037.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2019;41;37;27;55;15;51;0;0;0;128143.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2020;47;33;41;97;18;81;0;0;0;128143.0
+BACHELOR OF SCIENCE IN RESPIRATORY CARE;EPSILON;Bachelor;Health and Welfare;4.0;0;2021;31;22;23;118;23;97;0;0;0;260865.0
+PROGRAM ONE;A;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;6;22;1;0;0;77385.0
+PROGRAM ONE;A;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;5;22;8;6;7;70350.0
+PROGRAM ONE;A;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;2;18;2;2;2;70350.0
+PROGRAM TWO;A;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;16;4;9;1;4;68115.0
+PROGRAM TWO;A;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;30;11;28;9;11;62700.0
+PROGRAM TWO;A;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;6;4;7;3;6;62700.0
+PROGRAM THREE;A;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;165;125;41;23;15;128535.0
+PROGRAM THREE;A;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;280;198;86;44;41;116850.0
+PROGRAM THREE;A;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;256;207;90;52;45;116850.0
+PROGRAM FOUR;A;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;33;285;17;14;15;148830.0
+PROGRAM FOUR;A;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;29;287;36;29;35;135300.0
+PROGRAM FOUR;A;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;29;255;35;26;34;135300.0
+PROGRAM 2;G;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;G;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;G;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;G;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;G;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;G;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;G;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;G;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM 1;W;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;W;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;W;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;W;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;W;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;W;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;W;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;W;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;W;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;W;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;W;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;W;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+Industrial Engineering;M;Bachelor;Engineering, Manufacturing and Construction;4.0;1;2022;50;20;20;101;60;50;100;60;60;0.0
+Bachelor of Science in Multimedia Design;J;Bachelor;Arts and Humanities;4.0;1;2021;40;37;50;320;50;300;20;40;34;120000.0
+PROGRAM 1;H;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;H;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;H;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;H;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;H;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;H;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;H;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;H;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;H;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;H;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;H;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;H;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM ONE;O;Associate;Health and Welfare;2.0;0;2021;32;12;14;64;7;22;2;0;0;78000.0
+PROGRAM ONE;O;Associate;Health and Welfare;2.0;0;2020;32;12;13;62;4;22;16;6;7;72000.0
+PROGRAM ONE;O;Associate;Health and Welfare;2.0;0;2019;20;8;10;52;3;18;4;2;2;70000.0
+PROGRAM 2;O;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;92;31;11;56;9;11;65000.0
+PROGRAM 2;O;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;40;7;4;14;3;6;62000.0
+PROGRAM 3;O;Bachelor;Business, Administration and Law;4.0;1;2021;22;3;8;594;160;125;82;23;15;130000.0
+PROGRAM 3;O;Bachelor;Business, Administration and Law;4.0;1;2020;350;61;56;986;270;198;172;44;41;120000.0
+PROGRAM 3;O;Bachelor;Business, Administration and Law;4.0;1;2019;322;49;58;966;250;207;180;52;45;110000.0
+PROGRAM 1;X;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;X;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;X;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;X;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;X;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;X;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;X;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;X;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;X;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;X;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;X;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;X;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM 1;J;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;J;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;J;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 1;U;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;U;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;U;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;U;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;U;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;U;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;U;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;U;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;U;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;U;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;U;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;U;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM 1;D;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;D;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;D;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;D;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;D;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;D;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;D;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;D;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;D;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;D;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;D;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;D;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM 1;A;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;A;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;A;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;A;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;A;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;A;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;A;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;A;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;A;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;A;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;A;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;A;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
+PROGRAM 1;B;Associate;Health and Welfare;2.0;0;2021;16;12;14;32;7;22;1;0;0;78000.0
+PROGRAM 1;B;Associate;Health and Welfare;2.0;0;2020;16;12;13;31;4;22;8;6;7;72000.0
+PROGRAM 1;B;Associate;Health and Welfare;2.0;0;2019;10;8;10;26;3;18;2;2;2;70000.0
+PROGRAM 2;B;Associate;Information and Communication Technologies;2.0;0;2021;6;2;2;23;15;4;9;1;4;70000.0
+PROGRAM 2;B;Associate;Information and Communication Technologies;2.0;0;2020;0;0;0;46;31;11;28;9;11;65000.0
+PROGRAM 2;B;Associate;Information and Communication Technologies;2.0;0;2019;0;0;0;20;7;4;7;3;6;62000.0
+PROGRAM 3;B;Bachelor;Business, Administration and Law;4.0;1;2021;11;3;8;297;160;125;41;23;15;130000.0
+PROGRAM 3;B;Bachelor;Business, Administration and Law;4.0;1;2020;175;61;56;493;270;198;86;44;41;120000.0
+PROGRAM 3;B;Bachelor;Business, Administration and Law;4.0;1;2019;161;49;58;483;250;207;90;52;45;110000.0
+PROGRAM 4;B;Bachelor;Health and Welfare;4.0;1;2021;86;62;76;371;34;285;17;14;15;150000.0
+PROGRAM 4;B;Bachelor;Health and Welfare;4.0;1;2020;117;83;107;371;32;287;36;29;35;140000.0
+PROGRAM 4;B;Bachelor;Health and Welfare;4.0;1;2019;120;93;104;328;32;255;35;26;34;130000.0
